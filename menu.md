@@ -2,3 +2,6 @@
 Panini
 -Panino Primavera
 -Panino Vegetariano
+
+Fritti
+
